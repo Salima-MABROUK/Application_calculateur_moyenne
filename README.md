@@ -1,4 +1,4 @@
-### Exercice 1 : "Le calculateur de moyenne"
+### Exercice : "Le calculateur de moyenne"
 
 Vous êtes chargé de concevoir un programme pour une école qui veut automatiser le calcul des
 moyennes de plusieurs élèves. Chaque élève a plusieurs notes, et le programme doit calculer la
